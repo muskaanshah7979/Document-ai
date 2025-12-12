@@ -1,0 +1,7 @@
+
+import os
+TESSERACT_PATH = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+OCR_LANG = "eng" 
+MIN_TEXT_LENGTH = 50
+OUTPUT_DIR = "outputs"
+os.makedirs(OUTPUT_DIR, exist_ok=True)

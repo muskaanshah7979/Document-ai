@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,3 +206,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+=======
+venv/
+__pycache__/
+*.pyc
+>>>>>>> d42bd59 (Initial commit for Document AI Automation System)
